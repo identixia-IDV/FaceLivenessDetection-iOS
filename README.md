@@ -111,9 +111,9 @@ Sample id:
 
 Set the key, then activate:
 
-[https://github.com/identixia-IDV/FaceLivenessDetection-iOS/blob/main/FaceLivenessSDK/Home/ViewController.swift#L8-L11](https://github.com/identixia-IDV/FaceLivenessDetection-iOS/blob/main/FaceLivenessSDK/Home/ViewController.swift#L8-L11)
+[https://github.com/identixia-IDV/FaceLivenessDetection-iOS/blob/af8ac9a280416afc/FaceLivenessSDK/Home/ViewController.swift#L8-L11](https://github.com/identixia-IDV/FaceLivenessDetection-iOS/blob/af8ac9a280416afc/FaceLivenessSDK/Home/ViewController.swift#L8-L11)
 
-[https://github.com/identixia-IDV/FaceLivenessDetection-iOS/blob/main/FaceLivenessSDK/Home/ViewController.swift#L154-L154](https://github.com/identixia-IDV/FaceLivenessDetection-iOS/blob/main/FaceLivenessSDK/Home/ViewController.swift#L154-L154)
+[https://github.com/identixia-IDV/FaceLivenessDetection-iOS/blob/af8ac9a280416afc/FaceLivenessSDK/Home/ViewController.swift#L154-L154](https://github.com/identixia-IDV/FaceLivenessDetection-iOS/blob/af8ac9a280416afc/FaceLivenessSDK/Home/ViewController.swift#L154-L154)
 
 ## <img src="https://api.iconify.design/lucide/braces.svg?color=%230F766E" width="24" height="24" alt="" /> API
 
