@@ -1,0 +1,1 @@
+../scripts/sync_embedded_frameworks.sh
