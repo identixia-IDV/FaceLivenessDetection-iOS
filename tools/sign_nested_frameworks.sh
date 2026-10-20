@@ -1,0 +1,1 @@
+../scripts/sign_nested_frameworks.sh
